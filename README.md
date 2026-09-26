@@ -1,7 +1,10 @@
 # 3D Printed Mini-ITX PC Case (SFX PSU)
 
-![Assembled case](docs/manufactured_photo.png)
-![Rear I/O](docs/io_photo.png)
+<p align="center">
+  <img src="docs/iso_photo.png" alt="Assembled case" width="49%">
+  <img src="docs/io_photo.png" alt="Rear I/O" width="49%">
+</p>
+
 ![CAD render](docs/mini-ITX-open_render.png)
 
 ## Introduction
