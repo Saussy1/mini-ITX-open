@@ -9,7 +9,7 @@
 
 ## Introduction
 
-A custom, 3D printed open-frame PC case built to house a Mini-ITX motherboard and an SFX power supply.
+A custom, 3D printed open-frame PC case built to house a Mini-ITX motherboard and an SFX power supply. I designed this to be a quick, cheap, headless PC for server hosting.
 
 ### Design Features
 
