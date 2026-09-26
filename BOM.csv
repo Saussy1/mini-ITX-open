@@ -1,0 +1,14 @@
+﻿Item,Type,Part,Qty,Material / Spec,Source / Link,Notes
+1,Printed,Big L,1,PETG,stl/big_L.stl,
+2,Printed,Bottom,1,PETG,stl/bottom.stl,
+3,Printed,ITX IO,1,PETG,stl/itx_io.stl,
+4,Printed,ITX side,1,PETG,stl/itx_side.stl,
+5,Printed,PSU IO,1,PETG,stl/psu_io.stl,
+6,Printed,PSU side,1,PETG,stl/psu_side.stl,
+7,Printed,Foot,2,PETG,stl/foot.stl,
+8,Printed,Pin,15,PETG,stl/pin.stl,
+9,Filament,Elegoo Rapid PETG,312 g,"PETG, 1.75 mm",https://us.elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg,Total for all printed parts; one 1 kg spool is plenty
+10,Hardware,"Male-Female Hex Standoff, 3/16"" Hex, 3/8"" Long, 6-32",4,Brass,https://www.mcmaster.com/92700A112,
+11,Hardware,"Symmetrical Heat-Set Insert, 6-32, 0.281"" Installed Length",10,Brass,https://www.mcmaster.com/93502A121,
+12,Hardware,"Phillips Flat Head Screw, 6-32, 5/16"" Long",4,Brass,https://www.mcmaster.com/92480A842,Must be flat head to clear PSU
+13,Hardware,"Phillips Pan Head Screw, 6-32, 1/4"" Long",6,Brass,https://www.mcmaster.com/94070A144,
